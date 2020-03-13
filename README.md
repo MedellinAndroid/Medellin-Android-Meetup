@@ -1,4 +1,4 @@
-<p align="center"><img src="https://pngimage.net/wp-content/uploads/2018/06/meetup-logo-png-4.png" align="middle" width="550"></p> 
+<p align="center"><img src="https://theme.zdassets.com/theme_assets/2041222/c3ea09fd3c3bd646257ea97a6083bf5f45807354.png" align="middle" width="550"></p> 
 
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
@@ -6,11 +6,10 @@ Repo con la informacion de las presentaciones realizadas
 ### Patrones de Diseño con Kotlin, (MvRx) MvvM con esteroides
 
 - Julio Saldaña - Patrones de diseño con Kotlin:
-	- [Slides]() 
+	- [Slides](presentations/Julio_Saldana_Presentacion_Patrones_Kotlin.pdf) 
 
 - Daniel Loaiza - MvRx : Mvvm con esteroides:
 	- [Slides](presentations/Daniel_Loaiza_Presentacion_MVRX.pdf) 
-	- [Video]() 
 	- [Repo demo](https://github.com/DanielLoaiza/MvRxTest)
 
 
@@ -33,8 +32,7 @@ Repo con la informacion de las presentaciones realizadas
 	- [Repo demo](https://github.com/jessicalorenac/ExchangeRates-EurToUsd) 
 
 - Giovanny Vélez - Android Enterprice:
-	- [Slides](https://docs.google.com/presentation/d/17T2ixkdWIBIGVK2FfH3Z-4Xc41akD-kfpQ0HzD9ffrk/edit#slide=id.g61ffa357f4_0_13) 
-	- [Video]() 
+	- [Slides](https://docs.google.com/presentation/d/17T2ixkdWIBIGVK2FfH3Z-4Xc41akD-kfpQ0HzD9ffrk/edit#slide=id.g61ffa357f4_0_13)
 
 
 ### Más allá de un "Hola Mundo" en Flutter, Charades Project
@@ -59,7 +57,7 @@ Repo con la informacion de las presentaciones realizadas
 ### Introducción a Flutter & MVI para Android
 
 - Miguel Alegria - MVI para Android:
-	- [Slides]() 
+	- [Slides](presentations/Miguel_Alegria_MVI_for_Android_presentación.pdf) 
 
 - Jhon Jairo Hernandez - Introducción a Flutter:
 	- [Slides](https://docs.google.com/presentation/d/1_BVM76FDm9I_MH_DyO5CzTH4XJJ5RklfM2Ou1p5v8EY/edit?ts=5e698f4c#slide=id.g5c88b4b514_0_27)

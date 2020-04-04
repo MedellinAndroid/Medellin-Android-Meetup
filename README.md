@@ -3,6 +3,12 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Por que deberíamos darle una oportunidad a la inyección de dependencias
+- Daniel Gómez - Inyección de dependencias:
+	- [Slides](https://speakerdeck.com/danielgomezrico/dependency-injection) 
+	- [Video](https://www.youtube.com/watch?v=XUnlmuEMZ6k)
+	- [Repo demo](https://github.com/danielgomezrico/dependency-injection-examples)
+
 ### Patrones de Diseño con Kotlin, (MvRx) MvvM con esteroides
 
 - Julio Saldaña - Patrones de diseño con Kotlin:
@@ -93,4 +99,3 @@ Repo con la informacion de las presentaciones realizadas
 - Cristian Gomez - Web sockets y SocketIO:
 	- [Slides](https://docs.google.com/presentation/d/1NAhuCj79Gd2S4wdAYVdPlMIMgNm2sO6ytGsAPKLwHTo/edit#slide=id.g35f391192_04)
 	- [Video](https://www.youtube.com/watch?v=S6QHvs2Hevw)
-

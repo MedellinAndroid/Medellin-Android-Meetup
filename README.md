@@ -4,10 +4,12 @@
 Repo con la informacion de las presentaciones realizadas
 
 ### Por que deberíamos darle una oportunidad a la inyección de dependencias
+
 - Daniel Gómez - Inyección de dependencias:
 	- [Slides](https://speakerdeck.com/danielgomezrico/dependency-injection) 
 	- [Video](https://www.youtube.com/watch?v=XUnlmuEMZ6k)
 	- [Repo demo](https://github.com/danielgomezrico/dependency-injection-examples)
+	
 
 ### Patrones de Diseño con Kotlin, (MvRx) MvvM con esteroides
 
@@ -22,7 +24,7 @@ Repo con la informacion de las presentaciones realizadas
 ### Anahi y sus inyecciones de dependencias sin dolor, con Kotlin
 
 - Anahi Salgado - Inyección de dependencias con Kotlin:
-	- [Slides]() 
+	- [Slides](https://docs.google.com/presentation/d/1FsebkI8hzDU8AnInYWv0yNklW0TymnFtX0FtiQM0SXM/edit) 
 
 
 ### Android Accessibility

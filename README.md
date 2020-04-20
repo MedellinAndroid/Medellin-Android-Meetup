@@ -59,7 +59,7 @@ Repo con la informacion de las presentaciones realizadas
 	- [Slides]() 
 
 - Andres Rubiano - Introducción a Kotlin Co-Rutinas:
-	- [Slides]()
+	- [Slides](presentations/Andres_Rubiano_Presentacion_Coroutines.pdf)
 
 
 ### Introducción a Flutter & MVI para Android

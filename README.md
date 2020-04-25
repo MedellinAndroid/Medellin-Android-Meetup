@@ -3,6 +3,14 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Kotlin DSL
+
+- Juan Guillermo Gómez - Kotlin DSL:
+	- [Slides](https://speakerdeck.com/jggomez/creating-internal-dsls-in-kotlin) 
+	- [Video](https://www.youtube.com/watch?v=x53P02a85pg)
+	- [Repo demo](https://github.com/jggomez/KotlinDSL)
+	
+
 ### Por que deberíamos darle una oportunidad a la inyección de dependencias
 
 - Daniel Gómez - Inyección de dependencias:

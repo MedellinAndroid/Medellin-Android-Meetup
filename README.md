@@ -3,6 +3,12 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Patrón de Arquitectura MVVM(Model View ViewModel) + Coroutines
+- Eduardo José Medina Alfaro - MVVM Pattern + Coroutines :
+	- [Slides](https://docs.google.com/presentation/d/1j2UXUKm-09OnO07ImRz2DPV9kPqmu5NM4OxVBu658Yk/edit?usp=sharing) 
+	- [Video](https://www.youtube.com/watch?v=EODkOkVQAPs)
+	- [Repo demo](https://github.com/emedinaa/mvvm-step-by-step)
+
 ### Kotlin DSL
 
 - Juan Guillermo Gómez - Kotlin DSL:

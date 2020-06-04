@@ -3,6 +3,14 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### El poder oculto de Gradle
+
+- Sinuhe Jaime Valencia:
+	- [Slides](https://sierisimo.github.io/GradleHiddenPower/GradleHiddenPower/assets/player/KeynoteDHTMLPlayer.html#0)
+	- [Video](https://www.youtube.com/watch?v=mYtga-i9eFM)
+	- [Repo with examples](https://github.com/sierisimo/GradleHiddenPower)
+
+
 ### Patrón de Arquitectura MVVM(Model View ViewModel) + Coroutines
 - Eduardo José Medina Alfaro - MVVM Pattern + Coroutines :
 	- [Slides](https://docs.google.com/presentation/d/1j2UXUKm-09OnO07ImRz2DPV9kPqmu5NM4OxVBu658Yk/edit?usp=sharing) 

@@ -6,7 +6,7 @@ Repo con la informacion de las presentaciones realizadas
 ### Kotlin Multiplataforma en acción
 
 - Laura Mercedes De la Rosa:
-	- [Slides](presentations/KotlinMultiplatform in action- Laura De la Rosa.pdf)
+	- [Slides](presentations/KotlinMultiplatform_in_action_Laura_De_la_Rosa.pdf)
 	- [Video](https://www.youtube.com/watch?v=jW4BQTOL9yE&t=4612s)
 
 ### El poder oculto de Gradle

@@ -3,6 +3,12 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Kotlin Multiplataforma en acción
+
+- Laura Mercedes De la Rosa:
+	- [Slides](presentations/Julio_Saldana_Presentacion_Patrones_Kotlin.pdf)
+	- [Video](https://www.youtube.com/watch?v=jW4BQTOL9yE&t=4612s)
+
 ### El poder oculto de Gradle
 
 - Sinuhe Jaime Valencia:

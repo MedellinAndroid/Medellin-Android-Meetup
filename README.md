@@ -3,6 +3,14 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### El poder oculto de Gradle
+
+- Erix Javier Mendoza:
+	- [Slides](https://docs.google.com/presentation/d/1THttThXPXZvv-zGTzw3QpZHaFcf2RIXp-WwJCoJ98IQ/edit?usp=sharing)
+	- [Video](https://www.youtube.com/watch?v=OuvyjSGRemg&t=15s)
+	- [Repo with examples](https://github.com/erix24/ViewBindingSample)
+	- [Cheatsheet](https://www.instagram.com/p/B-qLuRoFbGm/?utm_source=ig_web_copy_link)
+
 ### Kotlin Multiplataforma en acción
 
 - Laura Mercedes De la Rosa:

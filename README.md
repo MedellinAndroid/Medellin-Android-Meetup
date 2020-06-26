@@ -3,7 +3,7 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
-### El poder oculto de Gradle
+### Introducción a View Binding
 
 - Erix Javier Mendoza:
 	- [Slides](https://docs.google.com/presentation/d/1THttThXPXZvv-zGTzw3QpZHaFcf2RIXp-WwJCoJ98IQ/edit?usp=sharing)

@@ -3,6 +3,11 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### ¿Qué hay de nuevo en Android 11?
+- Carlos Daniel Muñoz, Alejandro Rios, Laura De la Rosa, Juan Gabriel Gutierrez, Daniel Gomez:
+- [Slides](presentations/Android_11_Meetups.pdf)
+- [Video](https://www.youtube.com/watch?v=8nHsXOPxWkw)
+
 ### Introducción a View Binding
 
 - Erix Javier Mendoza:

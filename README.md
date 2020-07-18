@@ -3,6 +3,8 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+
+
 ### Introducción a View Binding
 
 - Erix Javier Mendoza:
@@ -10,6 +12,17 @@ Repo con la informacion de las presentaciones realizadas
 	- [Video](https://www.youtube.com/watch?v=OuvyjSGRemg&t=15s)
 	- [Repo with examples](https://github.com/erix24/ViewBindingSample)
 	- [Cheatsheet](https://www.instagram.com/p/B-qLuRoFbGm/?utm_source=ig_web_copy_link)
+
+### ¿Qué hay de nuevo en Android 11?
+
+- Carlos Daniel Muñoz, Juan Gabriel Gutierrez, Laura De la Rosa, Daniel Gomez, Alejandro Rios:
+    - [Slides](presentations/Android_11_Meetups.pdf)
+    - [Full Video](https://www.youtube.com/watch?v=8nHsXOPxWkw)
+    	- [UI](https://youtu.be/8nHsXOPxWkw?t=119)
+    	- [Privacy](https://youtu.be/8nHsXOPxWkw?t=814)
+    	- [Developer Goodies](https://youtu.be/8nHsXOPxWkw?t=1359)
+    	- [Graphics & Media](https://youtu.be/8nHsXOPxWkw?t=1946)
+    	- [More intersting stuff](https://youtu.be/8nHsXOPxWkw?t=2436)
 
 ### Kotlin Multiplataforma en acción
 

@@ -3,7 +3,12 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Sharpening Android Skills-Contribuyendo a un Proy Open Source by MedellínAndroid
 
+- Carlos Daniel Muñoz, Juan Gabriel Gutierrez, Laura De la Rosa, Daniel Gomez, Alejandro Rios:
+	- [Video](https://www.youtube.com/watch?v=E2CI3143jFI)
+	- [Issue Details](https://github.com/HabitRPG/habitica-android/issues/1372)
+	- [PR Details](https://github.com/HabitRPG/habitica-android/pull/1538)
 
 ### Introducción a View Binding
 

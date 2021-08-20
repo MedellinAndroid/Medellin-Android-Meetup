@@ -3,6 +3,10 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Dagger Hilt - Baby Steps por Alicia Beltran
+-[Slides](https://github.com/MedellinAndroid/Medellin-Android-Meetup/blob/master/presentations/AliciaBeltran-daggerHilt_baby_steps.pdf)
+-[Video](https://www.youtube.com/watch?v=Y-Ei3P2JwzA&ab_channel=MedellinAndroid)
+-[Repo - PR](https://github.com/aliceresponde/CompanyHumanResources/pull/1)   test vs Hilt branch
 
 
 ### Introducción a View Binding
@@ -151,7 +155,3 @@ Repo con la informacion de las presentaciones realizadas
 	- [Slides](https://docs.google.com/presentation/d/1NAhuCj79Gd2S4wdAYVdPlMIMgNm2sO6ytGsAPKLwHTo/edit#slide=id.g35f391192_04)
 	- [Video](https://www.youtube.com/watch?v=S6QHvs2Hevw)
 
-### Dagger Hilt - Baby Steps por Alicia Beltran
--[Slides](https://github.com/MedellinAndroid/Medellin-Android-Meetup/blob/master/presentations/AliciaBeltran-daggerHilt_baby_steps.pdf)
--[Video](https://www.youtube.com/watch?v=Y-Ei3P2JwzA&ab_channel=MedellinAndroid)
--[Repo - PR](https://github.com/aliceresponde/CompanyHumanResources/pull/1)   test vs Hilt branch	

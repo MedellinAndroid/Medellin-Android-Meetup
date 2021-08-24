@@ -6,9 +6,16 @@ Repo con la informacion de las presentaciones realizadas
 ### Sharpening Android Skills-Contribuyendo a un Proy Open Source by MedellínAndroid
 
 - Carlos Daniel Muñoz, Juan Gabriel Gutierrez, Laura De la Rosa, Daniel Gomez, Alejandro Rios:
-	- [Video](https://www.youtube.com/watch?v=E2CI3143jFI)
-	- [Issue Details](https://github.com/HabitRPG/habitica-android/issues/1372)
-	- [PR Details](https://github.com/HabitRPG/habitica-android/pull/1538)
+    - [Video](https://www.youtube.com/watch?v=E2CI3143jFI)
+    - [Issue Details](https://github.com/HabitRPG/habitica-android/issues/1372)
+    - [PR Details](https://github.com/HabitRPG/habitica-android/pull/1538)
+
+### Dagger Hilt - Baby Steps
+
+- Alicia Beltran
+	- [Slides](https://github.com/MedellinAndroid/Medellin-Android-Meetup/blob/master/presentations/AliciaBeltran-daggerHilt_baby_steps.pdf)
+	- [Video](https://www.youtube.com/watch?v=Y-Ei3P2JwzA&ab_channel=MedellinAndroid)
+	- [Repo - PR](https://github.com/aliceresponde/CompanyHumanResources/pull/1)   test vs Hilt branch
 
 ### Introducción a View Binding
 
@@ -155,3 +162,4 @@ Repo con la informacion de las presentaciones realizadas
 - Cristian Gomez - Web sockets y SocketIO:
 	- [Slides](https://docs.google.com/presentation/d/1NAhuCj79Gd2S4wdAYVdPlMIMgNm2sO6ytGsAPKLwHTo/edit#slide=id.g35f391192_04)
 	- [Video](https://www.youtube.com/watch?v=S6QHvs2Hevw)
+

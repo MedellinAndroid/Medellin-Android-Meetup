@@ -6,7 +6,7 @@ Repo con la informacion de las presentaciones realizadas
 ### Buenas prácticas en los Pull Request
 
 - Laura de la Rosa, María Pía Villalba, Cristian Villamil, Giovanny Velez, Eduardo Medina:
-	- [Video](https://www.youtube.com/watch?v=xUApLcYMixs&t=3402s)
+	- [Video](https://www.youtube.com/watch?v=xUApLcYMixs)
 	- [Slides / Links de interés](https://miro.com/welcomeonboard/NTlLclR2bVlHZzNuaFlnVUhqaVFiR1dZeXYzUkJXTVF5eVQ5cktEQnJjQ2gydTIzYVRJVE5CWkpoMDFScUEyNXwzMDc0NDU3MzU2NzcyNTA2NTU3)
 
 ### Sharpening Android Skills-Contribuyendo a un Proy Open Source by MedellínAndroid

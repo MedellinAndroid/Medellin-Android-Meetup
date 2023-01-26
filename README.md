@@ -3,6 +3,11 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Building Open Source Android SDKs
+- Felipe Erazo
+	- [Video](https://www.youtube.com/watch?v=F9z50nY9Ze4)
+	- [Slides](https://github.com/felipeerazog/Medellin-Android-Meetup/blob/aa8a444e78f3d197560ea145153dbdc7ae788fae/presentations/Felipe_Erazo_Building_SDKs.pdf)
+
 ### Buenas prácticas en los Pull Request
 
 - Laura de la Rosa, María Pía Villalba, Cristian Villamil, Giovanny Velez, Eduardo Medina:

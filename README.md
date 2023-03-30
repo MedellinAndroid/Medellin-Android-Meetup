@@ -3,6 +3,13 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+
+### Cómo migrar a Jetpack Compose y no morir en el intento
+- Esteban Higuita y Erix Mendoza - Trabajando con WorkManager:
+	- [Slides](https://docs.google.com/presentation/d/1dTBE7qA0gGn-j7zgvdk1a6rHlnPsZoATlv4_R7_mEmk/edit?usp=sharing)
+	- [Video](https://www.youtube.com/watch?v=7DFbjjHlkX4&t=259s)
+	- [Repo demo](https://github.com/codemendozaa/MigratingfromXmltoCompose)
+
 ### Building Open Source Android SDKs
 - Felipe Erazo
 	- [Video](https://www.youtube.com/watch?v=F9z50nY9Ze4)
@@ -179,4 +186,3 @@ Repo con la informacion de las presentaciones realizadas
 - Cristian Gomez - Web sockets y SocketIO:
 	- [Slides](https://docs.google.com/presentation/d/1NAhuCj79Gd2S4wdAYVdPlMIMgNm2sO6ytGsAPKLwHTo/edit#slide=id.g35f391192_04)
 	- [Video](https://www.youtube.com/watch?v=S6QHvs2Hevw)
-

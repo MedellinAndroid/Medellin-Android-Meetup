@@ -5,7 +5,7 @@ Repo con la informacion de las presentaciones realizadas
 
 ### De Android Compose a Compose Multiplataforma: lo que no te cuentan
 - Alejandro Gómez, Gustavo Gómez, Juan Gómez:
-	- [Slides](./presentations/AlejandroGomez_ComposeMultiplataforma.pdf)
+	- [Slides](presentations/AlejandroGomez_ComposeMultiplataforma.pdf)
 	- [Video](https://www.youtube.com/watch?v=0rVL69Zyhyk)
 
 ### Cómo migrar a Jetpack Compose y no morir en el intento

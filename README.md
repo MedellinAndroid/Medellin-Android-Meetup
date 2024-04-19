@@ -5,7 +5,7 @@ Repo con la informacion de las presentaciones realizadas
 
 ### MVI con Jetpack Compose y XML. Ventajas y desventajas.
 - Carlos Daniel Agudelo Henao
-	- [Slides](https://github.com/cardaguh/Medellin-Android-Meetup/blob/master/presentations/MVI%20ANDROID%20Carlos%20Daniel%20Agudelo.pdf)
+	- [Slides](presentations/MVI%20ANDROID%20Carlos%20Daniel%20Agudelo.pdf)
 	- [Video](https://www.youtube.com/watch?v=oUvrYJbCVxw)
 
 ### De Android Compose a Compose Multiplataforma: lo que no te cuentan

@@ -3,6 +3,11 @@
 # Medellin Android Meetup
 Repo con la informacion de las presentaciones realizadas
 
+### Arquitectura Moderna MVVM + Jetpack Compose.
+- Cristian Jiovany Villamil Prieto:
+	- [Slides](presentations/Arquitectura_Moderna_en_Android_ MVVM_y_Jetpack Compose.pdf)
+	- [Video](https://www.youtube.com/live/UYNmVS9saco)
+
 ### MVI con Jetpack Compose y XML. Ventajas y desventajas.
 - Carlos Daniel Agudelo Henao
 	- [Slides](presentations/MVI%20ANDROID%20Carlos%20Daniel%20Agudelo.pdf)
